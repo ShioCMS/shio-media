@@ -1,0 +1,25 @@
+.shioharaLogoOuter {
+    background: tomato;
+    width: 40px;
+    height: 40px;
+    color: papayawhip;
+    padding-top: 2px;
+    padding-left: 4px;
+    font-size: 18px;
+    font-weight: bolder;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.19)
+}
+
+.shioharaLogoInner {
+    margin-top: 11px;
+    font-family: "ProximaNovaLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.shTextLogo {
+    padding-top: 16px;
+    padding-left: 10px
+}
