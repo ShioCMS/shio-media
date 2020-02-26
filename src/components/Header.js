@@ -1,6 +1,7 @@
 import React from 'react';
-import { Flex, Button, Text } from '@chakra-ui/core';
+import { Flex, Text, FormControl, Input } from '@chakra-ui/core';
 import styles from './Header.module.css';
+import TopHeader from './TopHeader';
 
 function Header({
 
@@ -8,42 +9,38 @@ function Header({
   onPhotoSelect,
 }) {
   return (
-    <Flex
-      px="4"
-      py="4"
-      justify="space-between"
-    >
-<Flex
-      px="0"
-      py="0"
-      justify="space-between"
-    >
-      <div className={styles.shioharaLogoOuter}>
-        <div className={styles.shioharaLogoInner}>
-          Sh
-          </div>
-      </div>
-      <Text
-        as="div"
-        fontSize="xl"
-        fontWeight="bold"
-        className={styles.shTextLogo}
+    <div>
+      <TopHeader></TopHeader>
+      <Flex
+        px="4"
+        py="4"       
       >
-        Shiohara Stock
-            </Text>
-            </Flex>
-      <Flex align="end">
-        <Button
-          size="md"
-          variant="outline"
-          variantColor="blue"
-          isLoading={isUploading}
-          loadingText="Uploading..."
+        <Flex
+          px="0"
+          py="0"
+          width="100%"
         >
-          Upload Photo
-                </Button>
+          <div className={styles.shioharaLogoOuter}>
+            <div className={styles.shioharaLogoInner}>
+              Sh
+            </div>
+          </div>
+          <Text
+            as="div"
+            fontSize="xl"
+            fontWeight="bold"
+            className={styles.shTextLogo}
+          >
+            Shiohara Stock
+            </Text>
+          <FormControl display="inline-flex"
+            marginLeft="20px" width="100%">
+            <Input id="search" placeholder="Search" width="100%"/>
+          </FormControl>
+        </Flex>
+
       </Flex>
-    </Flex>
+    </div>
   );
 };
 
