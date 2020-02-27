@@ -15,7 +15,7 @@ function AppContainer() {
             height: 1,
         },
         {
-            src: 'http://placekitten.com/300/400',
+            src: 'http://placekitten.com/800/800',
             width: 3,
             height: 4,
         },
