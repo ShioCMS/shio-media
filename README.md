@@ -2,7 +2,7 @@
 
 ![Shiohara Screenshot](https://shioharacms.github.io/shiohara-stock/images/shiohara-stock-screenshot.png)
 
-**Viglet Shiohara Stock** - Store, organize and deliver media assets such as images, videos, illustrations and 3D.
+**Viglet Shiohara Stock** - Store, organize and deliver media assets such as photos, videos, illustrations and 3D.
 
 **If you'd like to contribute to Viglet Shiohara Stock, be sure to review the [contribution
 guidelines](CONTRIBUTING.md).**
