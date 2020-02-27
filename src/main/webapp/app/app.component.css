@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'ProximaNovaLight';
+    src: url('/assets/fonts/proximanova-light-webfont.eot');
+    src: url('/assets/fonts/proximanova-light-webfont.eot?#iefix') format('embedded-opentype'), 
+    url('/assets/fonts/proximanova-light-webfont.woff') format('font-woff'), 
+    url('/assets/fonts/proximanova-light-webfont.ttf') format('truetype'), 
+    url('/assets/fonts/proximanova-light-webfont.svg#ProximaNovaLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ProximaNovaReg';
+    src: url('/assets/fonts/proximanova-reg-webfont.eot');
+    src: url('/assets/fonts/proximanova-reg-webfont.eot?#iefix') format('embedded-opentype'), 
+    url('/assets/fonts/proximanova-reg-webfont.woff') format('font-woff'), 
+    url('/assets/fonts/proximanova-reg-webfont.ttf') format('truetype'), 
+    url('/assets/fonts/proximanova-reg-webfont.svg#ProximaNovaReg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+container {
+    margin-top: 30px;
+}
+
+.add-photo {
+    margin-bottom: 30px;
+}
+
+.list-photo {
+    margin-bottom: 50px;
+}
+
+.btn-add-photo {
+    margin-right: 10px;
+}

@@ -1,0 +1,1599 @@
+[{
+  "name": "image001.jpg",
+  "date": "2015:07:02 19:52:01",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image001.jpg",
+    "width": 500,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image001.jpg",
+    "width": 1024,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image001.jpg",
+    "width": 1440,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image001.jpg",
+    "width": 2133,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image001.jpg",
+    "width": 2880,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image001.jpg",
+    "width": 3840,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image001.jpg",
+    "width": 4000,
+    "height": 3000
+  },
+  "dominantColor": "#7e8659"
+}, {
+  "name": "image002.jpg",
+  "date": "2015:02:27 23:49:03",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image002.jpg",
+    "width": 259,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image002.jpg",
+    "width": 531,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image002.jpg",
+    "width": 746,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image002.jpg",
+    "width": 1106,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image002.jpg",
+    "width": 1493,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image002.jpg",
+    "width": 1990,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image002.jpg",
+    "width": 1769,
+    "height": 2560
+  },
+  "dominantColor": "#74725a"
+}, {
+  "name": "image003.JPG",
+  "date": "2015:03:03 07:54:23",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image003.JPG",
+    "width": 500,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image003.JPG",
+    "width": 1024,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image003.JPG",
+    "width": 1440,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image003.JPG",
+    "width": 2133,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image003.JPG",
+    "width": 2880,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image003.JPG",
+    "width": 3840,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image003.JPG",
+    "width": 4608,
+    "height": 3456
+  },
+  "dominantColor": "#253712"
+}, {
+  "name": "image004.JPG",
+  "date": "2015:02:26 00:23:20",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image004.JPG",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image004.JPG",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image004.JPG",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image004.JPG",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image004.JPG",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image004.JPG",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image004.JPG",
+    "width": 7360,
+    "height": 4912
+  },
+  "dominantColor": "#68534c"
+}, {
+  "name": "image005.JPG",
+  "date": "2015:03:11 17:15:04",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image005.JPG",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image005.JPG",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image005.JPG",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image005.JPG",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image005.JPG",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image005.JPG",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image005.JPG",
+    "width": 7360,
+    "height": 4912
+  },
+  "dominantColor": "#583d35"
+}, {
+  "name": "image006.JPG",
+  "date": "2015:03:03 18:23:40",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image006.JPG",
+    "width": 500,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image006.JPG",
+    "width": 1024,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image006.JPG",
+    "width": 1440,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image006.JPG",
+    "width": 2133,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image006.JPG",
+    "width": 2880,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image006.JPG",
+    "width": 3840,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image006.JPG",
+    "width": 4608,
+    "height": 3456
+  },
+  "dominantColor": "#758b3f"
+}, {
+  "name": "image007.JPG",
+  "date": "2015:03:03 19:32:29",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image007.JPG",
+    "width": 500,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image007.JPG",
+    "width": 1024,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image007.JPG",
+    "width": 1440,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image007.JPG",
+    "width": 2133,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image007.JPG",
+    "width": 2880,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image007.JPG",
+    "width": 3840,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image007.JPG",
+    "width": 4608,
+    "height": 3456
+  },
+  "dominantColor": "#3a5916"
+}, {
+  "name": "image008.jpg",
+  "date": "2015:09:05 13:19:15",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image008.jpg",
+    "width": 258,
+    "height": 374
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image008.jpg",
+    "width": 529,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image008.jpg",
+    "width": 744,
+    "height": 1079
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image008.jpg",
+    "width": 1103,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image008.jpg",
+    "width": 1489,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image008.jpg",
+    "width": 1985,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image008.jpg",
+    "width": 2757,
+    "height": 4000
+  },
+  "dominantColor": "#40401c"
+}, {
+  "name": "image009.JPG",
+  "date": "2015:02:26 21:25:07",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image009.JPG",
+    "width": 500,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image009.JPG",
+    "width": 1024,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image009.JPG",
+    "width": 1440,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image009.JPG",
+    "width": 2133,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image009.JPG",
+    "width": 2880,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image009.JPG",
+    "width": 3840,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image009.JPG",
+    "width": 4608,
+    "height": 3456
+  },
+  "dominantColor": "#3b4d2a"
+}, {
+  "name": "image010.JPG",
+  "date": "2015:02:28 20:26:28",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image010.JPG",
+    "width": 500,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image010.JPG",
+    "width": 1024,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image010.JPG",
+    "width": 1440,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image010.JPG",
+    "width": 2133,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image010.JPG",
+    "width": 2880,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image010.JPG",
+    "width": 3840,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image010.JPG",
+    "width": 4608,
+    "height": 3456
+  },
+  "dominantColor": "#545137"
+}, {
+  "name": "image011.JPG",
+  "date": "2015:02:28 20:35:50",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image011.JPG",
+    "width": 500,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image011.JPG",
+    "width": 1024,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image011.JPG",
+    "width": 1440,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image011.JPG",
+    "width": 2133,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image011.JPG",
+    "width": 2880,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image011.JPG",
+    "width": 3840,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image011.JPG",
+    "width": 4608,
+    "height": 3456
+  },
+  "dominantColor": "#605c3c"
+}, {
+  "name": "image012.JPG",
+  "date": "2015:02:28 00:11:00",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image012.JPG",
+    "width": 500,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image012.JPG",
+    "width": 1024,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image012.JPG",
+    "width": 1440,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image012.JPG",
+    "width": 2133,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image012.JPG",
+    "width": 2880,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image012.JPG",
+    "width": 3840,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image012.JPG",
+    "width": 4608,
+    "height": 3456
+  },
+  "dominantColor": "#5a5741"
+}, {
+  "name": "image013.jpg",
+  "date": "2015:07:06 18:59:28",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image013.jpg",
+    "width": 1244,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image013.jpg",
+    "width": 2548,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image013.jpg",
+    "width": 3584,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image013.jpg",
+    "width": 5309,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image013.jpg",
+    "width": 7167,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image013.jpg",
+    "width": 9556,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image013.jpg",
+    "width": 5120,
+    "height": 1543
+  },
+  "dominantColor": "#717275"
+}, {
+  "name": "image014.jpg",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image014.jpg",
+    "width": 275,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image014.jpg",
+    "width": 564,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image014.jpg",
+    "width": 793,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image014.jpg",
+    "width": 1174,
+    "height": 1599
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image014.jpg",
+    "width": 1585,
+    "height": 2159
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image014.jpg",
+    "width": 2114,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image014.jpg",
+    "width": 1879,
+    "height": 2560
+  },
+  "dominantColor": "#393e2a"
+}, {
+  "name": "image015.JPG",
+  "date": "0000:00:00 00:00:00",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image015.JPG",
+    "width": 500,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image015.JPG",
+    "width": 1024,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image015.JPG",
+    "width": 1440,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image015.JPG",
+    "width": 2133,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image015.JPG",
+    "width": 2880,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image015.JPG",
+    "width": 3840,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image015.JPG",
+    "width": 4608,
+    "height": 3456
+  },
+  "dominantColor": "#474034"
+}, {
+  "name": "image016.JPG",
+  "date": "0000:00:00 00:00:00",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image016.JPG",
+    "width": 500,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image016.JPG",
+    "width": 1024,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image016.JPG",
+    "width": 1440,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image016.JPG",
+    "width": 2133,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image016.JPG",
+    "width": 2880,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image016.JPG",
+    "width": 3840,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image016.JPG",
+    "width": 4608,
+    "height": 3456
+  },
+  "dominantColor": "#494636"
+}, {
+  "name": "image017.jpg",
+  "date": "2015:10:13 12:58:49",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image017.jpg",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image017.jpg",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image017.jpg",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image017.jpg",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image017.jpg",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image017.jpg",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image017.jpg",
+    "width": 4000,
+    "height": 2670
+  },
+  "dominantColor": "#3f362b"
+}, {
+  "name": "image018.jpg",
+  "date": "2015:10:13 13:32:03",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image018.jpg",
+    "width": 250,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image018.jpg",
+    "width": 513,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image018.jpg",
+    "width": 721,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image018.jpg",
+    "width": 1068,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image018.jpg",
+    "width": 1442,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image018.jpg",
+    "width": 1922,
+    "height": 2879
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image018.jpg",
+    "width": 2670,
+    "height": 4000
+  },
+  "dominantColor": "#353632"
+}, {
+  "name": "image019.jpg",
+  "date": "2015:10:04 16:23:03",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image019.jpg",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image019.jpg",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image019.jpg",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image019.jpg",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image019.jpg",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image019.jpg",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image019.jpg",
+    "width": 4000,
+    "height": 2670
+  },
+  "dominantColor": "#30302b"
+}, {
+  "name": "image020.jpg",
+  "date": "2015:10:04 14:39:26",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image020.jpg",
+    "width": 250,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image020.jpg",
+    "width": 513,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image020.jpg",
+    "width": 721,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image020.jpg",
+    "width": 1068,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image020.jpg",
+    "width": 1442,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image020.jpg",
+    "width": 1922,
+    "height": 2879
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image020.jpg",
+    "width": 2670,
+    "height": 4000
+  },
+  "dominantColor": "#272723"
+}, {
+  "name": "image021.JPG",
+  "date": "2015:02:28 15:03:20",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image021.JPG",
+    "width": 500,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image021.JPG",
+    "width": 1024,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image021.JPG",
+    "width": 1440,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image021.JPG",
+    "width": 2133,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image021.JPG",
+    "width": 2880,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image021.JPG",
+    "width": 3840,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image021.JPG",
+    "width": 4608,
+    "height": 3456
+  },
+  "dominantColor": "#292d2b"
+}, {
+  "name": "image022.JPG",
+  "date": "2015:02:26 23:18:56",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image022.JPG",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image022.JPG",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image022.JPG",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image022.JPG",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image022.JPG",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image022.JPG",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image022.JPG",
+    "width": 7360,
+    "height": 4912
+  },
+  "dominantColor": "#252a17"
+}, {
+  "name": "image023.JPG",
+  "date": "2015:02:27 00:04:48",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image023.JPG",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image023.JPG",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image023.JPG",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image023.JPG",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image023.JPG",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image023.JPG",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image023.JPG",
+    "width": 7360,
+    "height": 4912
+  },
+  "dominantColor": "#26321f"
+}, {
+  "name": "image024.JPG",
+  "date": "2015:03:10 01:09:38",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image024.JPG",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image024.JPG",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image024.JPG",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image024.JPG",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image024.JPG",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image024.JPG",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image024.JPG",
+    "width": 7360,
+    "height": 4912
+  },
+  "dominantColor": "#5f604c"
+}, {
+  "name": "image025.JPG",
+  "date": "2015:03:17 20:35:28",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image025.JPG",
+    "width": 500,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image025.JPG",
+    "width": 1024,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image025.JPG",
+    "width": 1440,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image025.JPG",
+    "width": 2133,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image025.JPG",
+    "width": 2880,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image025.JPG",
+    "width": 3840,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image025.JPG",
+    "width": 4608,
+    "height": 3456
+  },
+  "dominantColor": "#5a5352"
+}, {
+  "name": "image026.jpg",
+  "date": "2015:06:28 00:56:15",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image026.jpg",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image026.jpg",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image026.jpg",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image026.jpg",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image026.jpg",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image026.jpg",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image026.jpg",
+    "width": 4000,
+    "height": 2670
+  },
+  "dominantColor": "#3d4443"
+}, {
+  "name": "image027.jpg",
+  "date": "2015:06:28 01:48:34",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image027.jpg",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image027.jpg",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image027.jpg",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image027.jpg",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image027.jpg",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image027.jpg",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image027.jpg",
+    "width": 4000,
+    "height": 2670
+  },
+  "dominantColor": "#1a2f49"
+}, {
+  "name": "image028.jpg",
+  "date": "2015:06:28 00:41:35",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image028.jpg",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image028.jpg",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image028.jpg",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image028.jpg",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image028.jpg",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image028.jpg",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image028.jpg",
+    "width": 4000,
+    "height": 2670
+  },
+  "dominantColor": "#37352c"
+}, {
+  "name": "image029.JPG",
+  "date": "2015:03:02 18:54:56",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image029.JPG",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image029.JPG",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image029.JPG",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image029.JPG",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image029.JPG",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image029.JPG",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image029.JPG",
+    "width": 7360,
+    "height": 4912
+  },
+  "dominantColor": "#7f7288"
+}, {
+  "name": "image030.JPG",
+  "date": "2015:03:08 18:16:19",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image030.JPG",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image030.JPG",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image030.JPG",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image030.JPG",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image030.JPG",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image030.JPG",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image030.JPG",
+    "width": 7360,
+    "height": 4912
+  },
+  "dominantColor": "#837d8a"
+}, {
+  "name": "image031.JPG",
+  "date": "2015:03:13 20:41:03",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image031.JPG",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image031.JPG",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image031.JPG",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image031.JPG",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image031.JPG",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image031.JPG",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image031.JPG",
+    "width": 7360,
+    "height": 4912
+  },
+  "dominantColor": "#3b2e37"
+}, {
+  "name": "image032.jpg",
+  "date": "2015:10:13 12:37:49",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image032.jpg",
+    "width": 250,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image032.jpg",
+    "width": 513,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image032.jpg",
+    "width": 721,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image032.jpg",
+    "width": 1068,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image032.jpg",
+    "width": 1442,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image032.jpg",
+    "width": 1922,
+    "height": 2879
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image032.jpg",
+    "width": 2670,
+    "height": 4000
+  },
+  "dominantColor": "#535352"
+}, {
+  "name": "image033.jpg",
+  "date": "2015:06:30 23:35:52",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image033.jpg",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image033.jpg",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image033.jpg",
+    "width": 1619,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image033.jpg",
+    "width": 2398,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image033.jpg",
+    "width": 3237,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image033.jpg",
+    "width": 4316,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image033.jpg",
+    "width": 4000,
+    "height": 2669
+  },
+  "dominantColor": "#5180a9"
+}, {
+  "name": "image034.JPG",
+  "date": "2015:06:27 14:07:34",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image034.JPG",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image034.JPG",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image034.JPG",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image034.JPG",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image034.JPG",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image034.JPG",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image034.JPG",
+    "width": 7360,
+    "height": 4912
+  },
+  "dominantColor": "#8e5c20"
+}, {
+  "name": "image035.JPG",
+  "date": "2015:06:27 14:09:57",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image035.JPG",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image035.JPG",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image035.JPG",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image035.JPG",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image035.JPG",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image035.JPG",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image035.JPG",
+    "width": 7360,
+    "height": 4912
+  },
+  "dominantColor": "#af8340"
+}, {
+  "name": "image036.JPG",
+  "date": "2015:03:15 01:31:21",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image036.JPG",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image036.JPG",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image036.JPG",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image036.JPG",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image036.JPG",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image036.JPG",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image036.JPG",
+    "width": 7360,
+    "height": 4912
+  },
+  "dominantColor": "#464137"
+}, {
+  "name": "image037.jpg",
+  "date": "2015:07:08 00:26:42",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image037.jpg",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image037.jpg",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image037.jpg",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image037.jpg",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image037.jpg",
+    "width": 3237,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image037.jpg",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image037.jpg",
+    "width": 5120,
+    "height": 3417
+  },
+  "dominantColor": "#304862"
+}, {
+  "name": "image038.jpg",
+  "date": "2015:10:13 07:38:09",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image038.jpg",
+    "width": 599,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image038.jpg",
+    "width": 1227,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image038.jpg",
+    "width": 1725,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image038.jpg",
+    "width": 2556,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image038.jpg",
+    "width": 3450,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image038.jpg",
+    "width": 4601,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image038.jpg",
+    "width": 4000,
+    "height": 2504
+  },
+  "dominantColor": "#384855"
+}, {
+  "name": "image039.jpg",
+  "date": "2015:10:13 07:39:14",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image039.jpg",
+    "width": 566,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image039.jpg",
+    "width": 1160,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image039.jpg",
+    "width": 1631,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image039.jpg",
+    "width": 2416,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image039.jpg",
+    "width": 3262,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image039.jpg",
+    "width": 4349,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image039.jpg",
+    "width": 4000,
+    "height": 2649
+  },
+  "dominantColor": "#3f505e"
+}, {
+  "name": "image040.jpg",
+  "date": "2015:07:01 15:13:33",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image040.jpg",
+    "width": 608,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image040.jpg",
+    "width": 1244,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image040.jpg",
+    "width": 1750,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image040.jpg",
+    "width": 2592,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image040.jpg",
+    "width": 3499,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image040.jpg",
+    "width": 4666,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image040.jpg",
+    "width": 4000,
+    "height": 2469
+  },
+  "dominantColor": "#5b5c58"
+}, {
+  "name": "image041.JPG",
+  "date": "2015:03:08 19:27:11",
+  "preview_xxs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xxs/image041.JPG",
+    "width": 562,
+    "height": 375
+  },
+  "preview_xs": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xs/image041.JPG",
+    "width": 1151,
+    "height": 768
+  },
+  "preview_s": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_s/image041.JPG",
+    "width": 1618,
+    "height": 1080
+  },
+  "preview_m": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_m/image041.JPG",
+    "width": 2397,
+    "height": 1600
+  },
+  "preview_l": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_l/image041.JPG",
+    "width": 3236,
+    "height": 2160
+  },
+  "preview_xl": {
+    "path": "https://oidamo.de/assets/img/gallery/preview_xl/image041.JPG",
+    "width": 4315,
+    "height": 2880
+  },
+  "raw": {
+    "path": "https://oidamo.de/assets/img/gallery/raw/image041.JPG",
+    "width": 7360,
+    "height": 4912
+  },
+  "dominantColor": "#5e5551"
+}]

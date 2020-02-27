@@ -1,0 +1,38 @@
+.shioharaLogoOuter {
+    background: tomato;
+    width: 40px;
+    height: 40px;
+    color: papayawhip;
+    padding-top: 2px;
+    padding-left: 4px;
+    font-size: 18px;
+    font-weight: bolder;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.19);
+    margin-right: 5px;
+ }
+ 
+ .shioharaLogoInner {
+    margin-top: 6px;
+    font-family: "ProximaNovaLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ 
+ }
+ 
+ .shTextLogo {
+    padding-left: 10px;
+    font-size: 1.1rem !important;    
+    font-weight: 900 !important ;
+    line-height: normal;
+    font-family: "ProximaNovaLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ }
+
+ .example-form {
+    margin-left: 20px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
