@@ -1,27 +1,39 @@
-# ShioharaStock
+[![Twitter](https://img.shields.io/twitter/follow/shioharacms.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=shioharacms)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
+![Shiohara Screenshot](https://shioharacms.github.io/shiohara-stock/images/shiohara-stock-screenshot.png)
 
-## Development server
+**Viglet Shiohara Stock** - Store, organize and deliver media assets such as photos, videos, illustrations and 3D.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+**If you'd like to contribute to Viglet Shiohara Stock, be sure to review the [contribution
+guidelines](CONTRIBUTING.md).**
 
-## Code scaffolding
+**We use [GitHub issues](https://github.com/ShioharaCMS/shiohara-stock/issues) for tracking requests and bugs.**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Installation
 
-## Build
+## Download
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```shell
+$ git clone https://github.com/ShioharaCMS/shiohara-stock.git
+$ cd shiohara-stock
+```
 
-## Running unit tests
+## Deploy 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### 1. Runtime
 
-## Running end-to-end tests
+Use NPM and Gradle to execute Shiohara Stock.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+```shell
+$ ng serve --open
+$ ./gradlew bootrun
+```
 
-## Further help
+### 2. Build
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Use NPM and Gradle to build Shiohara Stock.
+
+```shell
+$ ng build --prod
+$ ./gradlew build
+```
