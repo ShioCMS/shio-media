@@ -31,10 +31,10 @@ function Header({
             fontWeight="bold"
             className={styles.shTextLogo}
           >
-            Shiohara Stock
+            Shiohara<br/>Stock
             </Text>
           <FormControl display="inline-flex"
-            marginLeft="20px" width="100%">
+            marginLeft="20px" width="calc(100% - 150px)">
             <Input id="search" placeholder="Search" width="100%"/>
           </FormControl>
         </Flex>

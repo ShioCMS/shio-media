@@ -61,17 +61,7 @@ function TopHeader({
           margin="10px"
         >
           Videos
-            </Text>
-
-        <Text
-          as="div"
-          fontSize="sm"
-          fontWeight="regular"
-          margin="10px"
-        >
-          Models
-            </Text>
-
+            </Text>    
         <Text
           as="div"
           fontSize="sm"
@@ -128,6 +118,15 @@ function TopHeader({
               </MenuGroup>
             </MenuList>
           </Menu>
+          <Button
+            size="sm"
+            bg="#222"
+            color="#cacaca"            
+            marginRight="10px"
+            marginLeft="10px"
+          >
+            Go to CMS
+                </Button>
 
 
 

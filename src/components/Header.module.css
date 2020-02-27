@@ -20,5 +20,8 @@
 }
 
 .shTextLogo {
-    padding-left: 10px
+    padding-left: 10px;
+    font-size: 1.1rem !important;    
+    font-weight: 900 !important ;
+    line-height: normal;
 }

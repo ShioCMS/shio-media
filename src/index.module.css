@@ -8,7 +8,6 @@
     font-weight: normal;
     font-style: normal;
 }
-
 @font-face {
     font-family: 'ProximaNovaReg';
     src: url('/fonts/proximanova-reg-webfont.eot');
@@ -18,6 +17,12 @@
     url('/fonts/proximanova-reg-webfont.svg#ProximaNovaReg') format('svg');
     font-weight: normal;
     font-style: normal;
+}
+
+* {
+    webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 body {
