@@ -1,17 +1,9 @@
-const API_URL = 'http://localhost:2710';
+const API_URL = 'http://localhost:2711/api/v2';
 
-export async function getPhotos() {
-    const response = await fetch(`${API_URL}/photo`);
-    const photoData = await response.json();
-
-    if (!photoData.success || photoData.photos.count < 1)
-        return [];
-
-    return photoData.photos.rows.map(photo => ({
-        src: `${API_URL}/photo/${photo.filename}`,
-        width: 1,
-        height: 1,
-    }));
+export  function getPhotos() {
+    return fetch(`${API_URL}/photos`)
+      .then(res => res.json())
+      .then(json => json);
 };
 
 export async function uploadPhoto(file) {
@@ -23,7 +15,7 @@ export async function uploadPhoto(file) {
     photoFormData.append("photo", file);
 
 
-    const response = await fetch(`${API_URL}/photo`, {
+    const response = await fetch(`${API_URL}/photos`, {
         method: 'POST',
         body: photoFormData,
     });

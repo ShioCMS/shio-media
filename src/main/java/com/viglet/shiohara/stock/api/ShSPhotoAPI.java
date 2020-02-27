@@ -50,14 +50,14 @@ public class ShSPhotoAPI {
 		ShSPhotoBean shSPhotoBean02 = new ShSPhotoBean();
 		shSPhotoBean02.setHeight(1);
 		shSPhotoBean02.setWidth(1);
-		shSPhotoBean02.setSrc("http://placekitten.com/200/300");
+		shSPhotoBean02.setSrc("http://placekitten.com/300/300");
 		
 		shSPhotoBeans.add(shSPhotoBean02);
 		
 		ShSPhotoBean shSPhotoBean03 = new ShSPhotoBean();
 		shSPhotoBean03.setHeight(1);
 		shSPhotoBean03.setWidth(1);
-		shSPhotoBean03.setSrc("http://placekitten.com/200/300");
+		shSPhotoBean03.setSrc("http://placekitten.com/400/300");
 
 		shSPhotoBeans.add(shSPhotoBean03);
 		
