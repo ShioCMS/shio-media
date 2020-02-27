@@ -29,3 +29,4 @@ bin/
 build/
 store/
 .vscode/
+src/main/resources/ui/public
