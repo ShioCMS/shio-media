@@ -1,8 +1,14 @@
 .sst-button-row button,
-.sst-button-row a {
+.sst-button-row a,
+.sst-icon {
   margin-right: 8px;
 }
 
 .sst-spacer {
   flex: 1 1 auto;
 }
+
+.example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }

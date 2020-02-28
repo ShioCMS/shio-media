@@ -13,11 +13,13 @@ import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatMenuModule} from '@angular/material/menu';
 import {MatButtonModule} from '@angular/material/button';
 import {MatInputModule} from '@angular/material/input';
+import {MatIconModule} from '@angular/material/icon';
 
 import {Angular2ImageGalleryModule} from 'angular2-image-gallery'
 import { HeaderComponent } from './components/header/header.component';
 import { TopHeaderComponent } from './components/top-header/top-header.component';
 
+import { AvatarModule } from 'ngx-avatar'
 
 @NgModule({
   declarations: [
@@ -36,7 +38,9 @@ import { TopHeaderComponent } from './components/top-header/top-header.component
     MatMenuModule,
     MatButtonModule,
     MatInputModule,
-    Angular2ImageGalleryModule
+    MatIconModule,
+    Angular2ImageGalleryModule,
+    AvatarModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -7,10 +7,21 @@
         <button mat-button>3D</button>
         <span class="sst-spacer"></span>
         <div class="sst-button-row">
-            <button mat-raised-button color="accent">Upload</button>
-            <button mat-raised-button color="accent">Alexandre</button>
-            <button mat-raised-button color="accent">Go To CMS</button>
+            <button mat-button>
+                <mat-icon class="sst-icon">cloud_upload</mat-icon> Upload
+            </button>
+            <button mat-button>Go To CMS</button>
+            <button mat-button [matMenuTriggerFor]="menu">
+                <ngx-avatar name="Alexandre Oliveira" size="40" [round]="true"></ngx-avatar>
+            </button>
+            <mat-menu #menu="matMenu">
+                <button mat-menu-item>
+                    <mat-icon>person</mat-icon> Profile
+                </button>
+                <button mat-menu-item>
+                    <mat-icon>exit_to_app</mat-icon> Logout
+                </button>
+            </mat-menu>
         </div>
     </mat-toolbar-row>
-
 </mat-toolbar>
