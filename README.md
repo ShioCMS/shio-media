@@ -1,6 +1,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/shioharacms.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=shioharacms)
 
-![Shiohara Screenshot](https://shioharacms.github.io/shiohara-stock/images/shiohara-stock-screenshot.png)
+![Shiohara Screenshot](https://shioharacms.github.io/shiohara-stock/images/shiohara-stock-screenshot.jpg)
 
 **Viglet Shiohara Stock** - Store, organize and deliver media assets such as photos, videos, illustrations and 3D.
 

@@ -6,11 +6,10 @@
         <button mat-button>Videos</button>
         <button mat-button>3D</button>
         <span class="sst-spacer"></span>
-        <div class="sst-button-row">
+        <div>
             <button mat-button>
                 <mat-icon class="sst-icon">cloud_upload</mat-icon> Upload
-            </button>
-            <button mat-button>Go To CMS</button>
+            </button>           
             <button mat-button [matMenuTriggerFor]="menu">
                 <ngx-avatar name="Alexandre Oliveira" size="40" [round]="true"></ngx-avatar>
             </button>
@@ -22,6 +21,14 @@
                     <mat-icon>exit_to_app</mat-icon> Logout
                 </button>
             </mat-menu>
+            <button mat-icon-button [matMenuTriggerFor]="menuMore" aria-label="More">
+                <mat-icon>more_vert</mat-icon>
+              </button>
+              <mat-menu #menuMore="matMenu">
+                <button mat-menu-item>
+                  <span>Go to CMS</span>
+                </button>
+              </mat-menu>
         </div>
     </mat-toolbar-row>
 </mat-toolbar>

@@ -28,11 +28,12 @@
     font-family: "ProximaNovaLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
  }
 
- .example-form {
+ .sstSearchForm {
     margin-left: 20px;
     width: 100%;
+    margin-top: 20px;
   }
   
-  .example-full-width {
+  .sstSearchFullWidth {
     width: 100%;
   }
