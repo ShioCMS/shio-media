@@ -1,0 +1,8 @@
+.sst-button-row button,
+.sst-button-row a {
+  margin-right: 8px;
+}
+
+.sst-spacer {
+  flex: 1 1 auto;
+}
