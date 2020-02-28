@@ -37,3 +37,7 @@ Use NPM and Gradle to build Shiohara Stock.
 $ ng build --prod
 $ ./gradlew build
 ```
+
+## URL
+
+Home: http://localhost:2711
