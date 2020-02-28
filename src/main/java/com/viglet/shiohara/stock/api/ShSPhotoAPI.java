@@ -16,17 +16,39 @@
  */
 package com.viglet.shiohara.stock.api;
 
+import java.awt.image.BufferedImage;
+import java.io.IOException;
+import java.net.HttpURLConnection;
+import java.net.URL;
 import java.util.ArrayList;
+import java.util.Base64;
 import java.util.Date;
 import java.util.List;
 
+import javax.imageio.ImageIO;
+
+import org.apache.http.HttpResponse;
+import org.apache.http.client.ClientProtocolException;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.ResponseHandler;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.BasicResponseHandler;
+import org.apache.http.impl.client.HttpClientBuilder;
+import org.json.JSONException;
+import org.json.JSONObject;
+import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.google.common.net.HttpHeaders;
+import com.viglet.shiohara.stock.beans.ShPostTinyBean;
 import com.viglet.shiohara.stock.beans.ShSPhotoBean;
 import com.viglet.shiohara.stock.beans.ShSPhotoPreviewBean;
 
+import de.androidpit.colorthief.ColorThief;
 import io.swagger.annotations.Api;
 
 /**
@@ -35,54 +57,70 @@ import io.swagger.annotations.Api;
  */
 @RestController
 @RequestMapping("/api/v2/photos")
-@Api(value="/photos", tags="Photos", description="Photos")
+@Api(value = "/photos", tags = "Photos", description = "Photos")
 public class ShSPhotoAPI {
+	private static final String REST_IMAGE_SERVICE = "https://demo.shiohara.org/api/v2/object/8f6aa05a-4f4f-4f5a-adc5-b8b33955d6f5/list";
+	private ResponseHandler<String> responseHandler = new BasicResponseHandler();
+
 	@GetMapping
-	public List<ShSPhotoBean> shApiInfo() {
+	public List<ShSPhotoBean> getPhotos() throws ClientProtocolException, IOException {
 
+		HttpClient httpClient = HttpClientBuilder.create().build();
+		String username = "admin";
+		String password = "admin";
+		String encoding = "Basic " + Base64.getEncoder().encodeToString((username + ":" + password).getBytes());
+		HttpGet httpGet = new HttpGet(REST_IMAGE_SERVICE);
+		httpGet.setHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON.toString());
+		httpGet.setHeader(HttpHeaders.ACCEPT, MediaType.APPLICATION_JSON.toString());
+		httpGet.setHeader(HttpHeaders.AUTHORIZATION, encoding);
+		HttpResponse response = httpClient.execute(httpGet);
+
+		JSONObject jsonObj = new JSONObject(responseHandler.handleResponse(response));
+		ObjectMapper mapper = new ObjectMapper();
 		List<ShSPhotoBean> shSPhotoBeans = new ArrayList<>();
-		
-		ShSPhotoBean shSPhotoBean01 = new ShSPhotoBean();
-		shSPhotoBean01.setName("image001.jpg");
-		shSPhotoBean01.setDate(new Date());
-		shSPhotoBean01.setPreview_xxs(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_xxs/image001.jpg", 500, 375));
-		shSPhotoBean01.setPreview_xs(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_xs/image001.jpg", 1024, 768));
-		shSPhotoBean01.setPreview_s(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_s/image001.jpg", 1440, 1080));
-		shSPhotoBean01.setPreview_m(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_m/image001.jpg", 2133, 1600));
-		shSPhotoBean01.setPreview_l(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_l/image001.jpg",2880, 2160));
-		shSPhotoBean01.setPreview_xl(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_xl/image001.jpg",3840,2880));
-		shSPhotoBean01.setRaw(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/raw/image001.jpg", 4000, 3000));
-		shSPhotoBean01.setDominantColor("#7e8659");
-		shSPhotoBeans.add(shSPhotoBean01);
-		
-		ShSPhotoBean shSPhotoBean02 = new ShSPhotoBean();
-		shSPhotoBean02.setName("image002.jpg");
-		shSPhotoBean02.setDate(new Date());
-		shSPhotoBean02.setPreview_xxs(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_xxs/image002.jpg", 259, 375));
-		shSPhotoBean02.setPreview_xs(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_xs/image002.jpg", 531, 768));
-		shSPhotoBean02.setPreview_s(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_s/image002.jpg", 746, 1080));
-		shSPhotoBean02.setPreview_m(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_m/image002.jpg", 1106, 1600));
-		shSPhotoBean02.setPreview_l(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_l/image002.jpg",1493, 2160));
-		shSPhotoBean02.setPreview_xl(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_xl/image002.jpg",1990,2880));
-		shSPhotoBean02.setRaw(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/raw/image003.jpg", 1769, 2560));
-		shSPhotoBean02.setDominantColor("#74725a");
-		
-		shSPhotoBeans.add(shSPhotoBean02);
-		
-		ShSPhotoBean shSPhotoBean03 = new ShSPhotoBean();
-		shSPhotoBean03.setName("image003.JPG");
-		shSPhotoBean03.setDate(new Date());
-		shSPhotoBean03.setPreview_xxs(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_xxs/image003.JPG", 500, 375));
-		shSPhotoBean03.setPreview_xs(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_xs/image003.JPG", 1024, 768));
-		shSPhotoBean03.setPreview_s(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_s/image003.JPG", 1440, 1080));
-		shSPhotoBean03.setPreview_m(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_m/image003.JPG", 2133, 1600));
-		shSPhotoBean03.setPreview_l(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_l/image003.JPG",2880, 2160));
-		shSPhotoBean03.setPreview_xl(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/preview_xl/image003.JPG",3840,2880));
-		shSPhotoBean03.setRaw(new ShSPhotoPreviewBean("https://oidamo.de/assets/img/gallery/raw/image003.JPG", 4608, 3456));
-		shSPhotoBean03.setDominantColor("#253712");
 
-		shSPhotoBeans.add(shSPhotoBean03);
-		
+		try {
+
+			String folderPath = jsonObj.getString("folderPath").toString();
+			String siteName = jsonObj.getJSONObject("shSite").getString("name");
+			List<ShPostTinyBean> shPosts = mapper.readValue(jsonObj.getJSONArray("shPosts").toString(),
+					new TypeReference<List<ShPostTinyBean>>() {
+					});
+
+			for (ShPostTinyBean shPost : shPosts) {
+				URL url = new URL(String.format("%s/store/file_source/%s%s%s", "https://demo.shiohara.org", siteName,
+						folderPath, shPost.getTitle()));
+
+				HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+				connection.setRequestProperty("User-Agent",
+						"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31");
+				BufferedImage image = ImageIO.read(connection.getInputStream());
+				int height = image.getHeight();
+				int width = image.getWidth();
+
+				int[] rgbArray = ColorThief.getColor(image);
+				String rgb = String.format("rgb(%d,%d,%d)", rgbArray[0], rgbArray[1], rgbArray[2]);
+
+				System.out.println(url.toString() + " " + rgb);
+				ShSPhotoBean shSPhotoBean = new ShSPhotoBean();
+
+				shSPhotoBean.setName(shPost.getTitle());
+				shSPhotoBean.setDate(shPost.getDate());
+				shSPhotoBean.setPreview_xxs(new ShSPhotoPreviewBean(url.toString(), width, height));
+				shSPhotoBean.setPreview_xs(new ShSPhotoPreviewBean(url.toString(), width, height));
+				shSPhotoBean.setPreview_s(new ShSPhotoPreviewBean(url.toString(), width, height));
+				shSPhotoBean.setPreview_m(new ShSPhotoPreviewBean(url.toString(), width, height));
+				shSPhotoBean.setPreview_l(new ShSPhotoPreviewBean(url.toString(), width, height));
+				shSPhotoBean.setPreview_xl(new ShSPhotoPreviewBean(url.toString(), width, height));
+				shSPhotoBean.setRaw(new ShSPhotoPreviewBean(url.toString(), width, height));
+				shSPhotoBean.setDominantColor(rgb);
+				shSPhotoBeans.add(shSPhotoBean);
+			}
+		} catch (JSONException | IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
 		return shSPhotoBeans;
 	}
 }
