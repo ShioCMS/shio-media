@@ -20,7 +20,7 @@ $ cd shio-stock
 
 ## Deploy 
 
-### 1. Install Mudles
+### 1. Install NPM Modules
 
 Use NPM to install the modules.
 
