@@ -20,18 +20,26 @@ $ cd shio-stock
 
 ## Deploy 
 
-### 1. Runtime
+### 1. Install Mudles
 
-Use NPM and Gradle to execute Shio Stock.
+Use NPM to install the modules.
+
+```shell
+$ npm install
+```
+
+### 2. Runtime
+
+Use Ng and Gradle to execute Shio Stock.
 
 ```shell
 $ ng serve --open
 $ ./gradlew bootrun
 ```
 
-### 2. Build
+### 3. Build
 
-Use NPM and Gradle to build Shio Stock.
+Use Ng and Gradle to build Shio Stock.
 
 ```shell
 $ ng build --prod
