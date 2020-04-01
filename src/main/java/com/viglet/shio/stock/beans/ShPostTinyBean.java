@@ -14,7 +14,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
-package com.viglet.shiohara.stock.beans;
+package com.viglet.shio.stock.beans;
 
 import java.util.Date;
 

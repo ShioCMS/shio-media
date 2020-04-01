@@ -35,7 +35,7 @@ task buildClient(type: NpmTask, dependsOn: 'npmInstall') {
     args = ['run', 'build']
 }
 jar {
-    archiveBaseName = 'shiohara-stock'
+    archiveBaseName = 'shio-stock'
     archiveVersion =  '0.3.0'
 }
 

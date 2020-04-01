@@ -1,4 +1,4 @@
-package com.viglet.shiohara.stock.beans;
+package com.viglet.shio.stock.beans;
 
 public class ShSPhotoPreviewBean {
 	private String path;

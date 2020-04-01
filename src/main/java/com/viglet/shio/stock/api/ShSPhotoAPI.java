@@ -14,7 +14,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
-package com.viglet.shiohara.stock.api;
+package com.viglet.shio.stock.api;
 
 import java.awt.image.BufferedImage;
 import java.io.IOException;
@@ -44,9 +44,9 @@ import org.springframework.web.bind.annotation.RestController;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.common.net.HttpHeaders;
-import com.viglet.shiohara.stock.beans.ShPostTinyBean;
-import com.viglet.shiohara.stock.beans.ShSPhotoBean;
-import com.viglet.shiohara.stock.beans.ShSPhotoPreviewBean;
+import com.viglet.shio.stock.beans.ShPostTinyBean;
+import com.viglet.shio.stock.beans.ShSPhotoBean;
+import com.viglet.shio.stock.beans.ShSPhotoPreviewBean;
 
 import de.androidpit.colorthief.ColorThief;
 import io.swagger.annotations.Api;

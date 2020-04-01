@@ -15,7 +15,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package com.viglet.shiohara.stock.spring;
+package com.viglet.shio.stock.spring;
 
 import org.springframework.boot.autoconfigure.AutoConfigureAfter;
 import org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration;

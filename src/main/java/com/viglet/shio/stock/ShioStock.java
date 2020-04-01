@@ -14,7 +14,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
-package com.viglet.shiohara.stock;
+package com.viglet.shio.stock;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -28,7 +28,7 @@ import com.fasterxml.jackson.databind.Module;
 import com.fasterxml.jackson.datatype.hibernate5.Hibernate5Module;
 
 /**
- * Class that can be used to bootstrap and launch a Shiohara Stok from a Java
+ * Class that can be used to bootstrap and launch a Shiohara Stock from a Java
  * main method.
  *
  * @author Alexandre Oliveira
@@ -38,13 +38,13 @@ import com.fasterxml.jackson.datatype.hibernate5.Hibernate5Module;
 @SpringBootApplication
 @EnableJms
 @EnableCaching
-public class ShioharaStock {
+public class ShioStock {
 
 	public static void main(String[] args) throws Exception {
-		System.out.println("Viglet Shiohara Stock starting...");
-		SpringApplication application = new SpringApplication(ShioharaStock.class);
+		System.out.println("Viglet Shio Stock starting...");
+		SpringApplication application = new SpringApplication(ShioStock.class);
 		application.run(args);
-		System.out.println("Viglet Shiohara Stock started");
+		System.out.println("Viglet Shio Stock started");
 	}
 
 	@Bean

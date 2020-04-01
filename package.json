@@ -1,5 +1,5 @@
 {
-  "name": "shiohara-stock",
+  "name": "shio-stock",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -12,6 +12,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-devkit/schematics": "^9.1.0",
     "@angular/animations": "~9.0.2",
     "@angular/cdk": "^9.1.0",
     "@angular/common": "^9.0.3",
