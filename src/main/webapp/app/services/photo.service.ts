@@ -9,7 +9,7 @@ import { Photo } from '../models/photo';
 })
 export class PhotoService {
 
-  url = 'http://localhost:2711/api/v2/photos';
+  url = 'http://localhost:2710/api/v2/stock/photos';
 
   constructor(private httpClient: HttpClient) { }
 
