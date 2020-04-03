@@ -7,7 +7,7 @@
         <button mat-button>3D</button>
         <span class="sst-spacer"></span>
         <div>
-            <button mat-button>
+            <button mat-button (click)="openDialog()">
                 <mat-icon class="sst-icon">cloud_upload</mat-icon> Upload
             </button>           
             <button mat-button [matMenuTriggerFor]="menu">
