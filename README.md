@@ -28,24 +28,26 @@ Use NPM to install the modules.
 $ npm install
 ```
 
-### 2. Runtime
+### 2. Start Shio CMS
 
-Use Ng and Gradle to execute Shio Stock.
+Start Shio CMS following the procedure described in https://github.com/ShioCMS/shio/blob/master/README.md
+
+### 3. Runtime
+
+Use Ng to execute Shio Stock.
 
 ```shell
 $ ng serve --open
-$ ./gradlew bootrun
 ```
 
-### 3. Build
+### 4. Build
 
-Use Ng and Gradle to build Shio Stock.
+Use Ng to build Shio Stock.
 
 ```shell
 $ ng build --prod
-$ ./gradlew build
 ```
 
 ## URL
 
-Home: http://localhost:2711
+Home: http://localhost:4200
